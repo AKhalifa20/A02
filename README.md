@@ -16,4 +16,7 @@ Click the operating system you want to install the program on.
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/d91ad278-5580-4ee8-8533-db46677e8f0e)
 Download the latest version of Git by clicking on the first link. 
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/808289a8-a348-4f4d-a10b-bf59845bab7c)
-
+# Step 3: Create a GitHub Account
+Navigate to the link https://github.com/join
+Fill out your credentials and complete the CAPTCHA. Make sure you verify your account in your email. 
+![image](https://github.com/AKhalifa20/A02/assets/123400312/5533ab55-1298-4044-a19a-ad800337c82b)
