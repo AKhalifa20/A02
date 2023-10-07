@@ -23,17 +23,24 @@ Fill out your credentials and complete the CAPTCHA. Make sure you verify your ac
 # Glossary for Git Commands
 **Branch*- 
 
-**Clone*
+**Clone*-
 
-**Commit*
+**Commit*-
 
-**Fetch*
+**Fetch*-
 
-**GIT*
-**Github*
-**Merge*
-**Merge Conflict*
-**Push*
-**Pull*
-**Remote*
-**Repository*
+**GIT*-
+
+**Github*-
+
+**Merge*-
+
+**Merge Conflict*-
+
+**Push*-
+
+**Pull*-
+
+**Remote*-
+
+**Repository*-
