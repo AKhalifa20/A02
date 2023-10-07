@@ -9,4 +9,4 @@ Open and install the file
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/9be8cee8-76e2-4384-9e94-a56126ab4643)
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/d02aa662-4254-4fd3-b6ae-d16f17f1fd67)
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/dad4a8ba-589c-4795-b209-491ef10813c6)
-
+# Step 2: Install Git As a local Program
