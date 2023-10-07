@@ -21,15 +21,15 @@ Navigate to the link https://github.com/join
 Fill out your credentials and complete the CAPTCHA. Make sure you verify your account in your email. 
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/5533ab55-1298-4044-a19a-ad800337c82b)
 # Glossary for Git Commands
-*Branch*
-*Clone*
-*Commit*
-*Fetch*
-*GIT*
-*Github*
-*Merge*
-*Merge Conflict*
-*Push*
-*Pull*
-*Remote*
-*Repository*
+**Branch*- 
+**Clone*
+**Commit*
+**Fetch*
+**GIT*
+**Github*
+**Merge*
+**Merge Conflict*
+**Push*
+**Pull*
+**Remote*
+**Repository*
