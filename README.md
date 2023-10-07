@@ -12,3 +12,8 @@ Open and install the file by continuously clicking next.
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/dad4a8ba-589c-4795-b209-491ef10813c6)
 # Step 2: Install Git As a Local Program
 navigate to the link https://git-scm.com/downloads
+Click the operating system you want to install the program on.
+![image](https://github.com/AKhalifa20/A02/assets/123400312/d91ad278-5580-4ee8-8533-db46677e8f0e)
+Download the latest version of Git by clicking on the first link. 
+![image](https://github.com/AKhalifa20/A02/assets/123400312/808289a8-a348-4f4d-a10b-bf59845bab7c)
+
