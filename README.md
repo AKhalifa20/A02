@@ -72,4 +72,6 @@ https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git#:~:tex
 
 What is GitHub? - Definition from WhatIs.com. (n.d.). Retrieved from SearchITOperations website: https://www.techtarget.com/searchitoperations/definition/GitHub
 
+Getting started with WebStorm | WebStorm. (n.d.). Retrieved from WebStorm Help website: https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_open_project
+
 
