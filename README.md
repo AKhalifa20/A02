@@ -46,8 +46,11 @@ Fill out your credentials and complete the CAPTCHA. Make sure you verify your ac
 **Repository*-A digital storage where you manage all your projects and files while keeping track of changes.
 # Reference list
 Git - Working with Remotes. (n.d.). Retrieved from git-scm.com website: https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes#:~:text=Remote%20repositories%20are%20versions%20of
+
 Top 18 Git Commands List - A Practical Guide with Examples. (n.d.). Retrieved October 8, 2023, from intellipaat.com website: https://intellipaat.com/blog/tutorial/devops-tutorial/git-commands/#git-clone
+
 https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git#:~:text=Git%20merge%20conflict.-,What%20is%20a%20Git%20Merge%20Conflict%3F,on%20different%20lines%20or%20branches.
+
 What is GitHub? - Definition from WhatIs.com. (n.d.). Retrieved from SearchITOperations website: https://www.techtarget.com/searchitoperations/definition/GitHub
 
 
