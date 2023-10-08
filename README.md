@@ -11,7 +11,7 @@ Open and install the file by continuously clicking next.
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/d02aa662-4254-4fd3-b6ae-d16f17f1fd67)
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/dad4a8ba-589c-4795-b209-491ef10813c6)
 # Step 2: Install Git As a Local Program
-navigate to the link https://git-scm.com/downloads
+Navigate to the link https://git-scm.com/downloads
 Click the operating system you want to install the program on.
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/d91ad278-5580-4ee8-8533-db46677e8f0e)
 Download the latest version of Git by clicking on the first link. 
@@ -31,12 +31,13 @@ Name the file
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/3eea9635-0c21-497a-af1c-ca13b1dcd272)
 Now you are ready and prepared to start coding.
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/48b56ccc-0cf4-4f83-b5a2-a5739a320e73)
-hover the cursor over the three-lined icon on the top left corner of the screen and hover over VCS. 
+Hover the cursor over the three-lined icon on the top left corner of the screen and hover over VCS. 
 Click on "Create Git Repository".
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/aee95898-7545-4be4-9e28-2229b5ab2c4a)
 Save it to a directory and click the OK Icon. 
 Now you should be able to use the commands below to manage your project and files. 
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/a7f3273a-1648-4241-8eee-7703dee2006b)
+![image](https://github.com/AKhalifa20/A02/assets/123400312/bfcaa842-c3df-49bc-8fa3-5a5440419508)
 
 # Glossary for Git Commands
 **Branch*- Will list out all the branches of the repository.
