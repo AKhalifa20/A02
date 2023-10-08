@@ -21,26 +21,33 @@ Navigate to the link https://github.com/join
 Fill out your credentials and complete the CAPTCHA. Make sure you verify your account in your email. 
 ![image](https://github.com/AKhalifa20/A02/assets/123400312/5533ab55-1298-4044-a19a-ad800337c82b)
 # Glossary for Git Commands
-**Branch*- Will list out all the branches of the repository.
+**Branch*- Will list out all the branches of the repository
 
-**Clone*-
+**Clone*-Creates copy of a remote repository to your local computer
 
-**Commit*-
+**Commit*-Creates records of file changes and version history.
 
-**Fetch*-
+**Fetch*-Allows you to gather changes on a target branch and stores in your local repository. 
 
-**GIT*-
+**GIT*-GIT is an open-source version control system tool that can manage projects and files.
 
-**Github*-
+**Github*-GitHub is a version control web-based platform that allows collaborators to work on projects.
 
-**Merge*-
+**Merge*-imports changes from a current branch to the target branch.
 
-**Merge Conflict*-
+**Merge Conflict*-This occurs when multiple people attempt to commit changes to a file on the same line at the same time. Git is unable to resolve the differences.
 
-**Push*-
+**Push*-when you want to import changes from your current branch onto the remote repository on github. 
 
-**Pull*-
+**Pull*-You download content from the remote repository and apply it to your local branch.
 
-**Remote*-
+**Remote*-Versions of your project or repository that are hosted online.
 
-**Repository*-
+**Repository*-A digital storage where you manage all your projects and files while keeping track of changes.
+# Reference list
+Git - Working with Remotes. (n.d.). Retrieved from git-scm.com website: https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes#:~:text=Remote%20repositories%20are%20versions%20of
+Top 18 Git Commands List - A Practical Guide with Examples. (n.d.). Retrieved October 8, 2023, from intellipaat.com website: https://intellipaat.com/blog/tutorial/devops-tutorial/git-commands/#git-clone
+https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git#:~:text=Git%20merge%20conflict.-,What%20is%20a%20Git%20Merge%20Conflict%3F,on%20different%20lines%20or%20branches.
+What is GitHub? - Definition from WhatIs.com. (n.d.). Retrieved from SearchITOperations website: https://www.techtarget.com/searchitoperations/definition/GitHub
+
+
